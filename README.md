@@ -1,0 +1,6 @@
+# [HTML5 Boilerplate](http://html5boilerplate.com)
+
+Canvas boilerplate is a personal template for building app using canvas.
+It is based on [HTML5 Boilerplate](http://html5boilerplate.com) 
+
+
