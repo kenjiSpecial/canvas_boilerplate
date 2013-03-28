@@ -10,6 +10,7 @@ window.requestAnimFrame = (function(){
 var canvas, context;
 var width = window.innerWidth;
 var height = window.innerHeight;
+
 var stats = new Stats();
 stats.setMode(0); // 0: fps, 1: ms
 
